@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/tiferet-ashemesh/precache-manifest.090fe4f31edcc81a5d8e86dbb668b61f.js"
+  "/tiferet-ashemesh/precache-manifest.c9569fccb6846627f9c5131682dc5e55.js"
 );
 
 self.addEventListener('message', (event) => {

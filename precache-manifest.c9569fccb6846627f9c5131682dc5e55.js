@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4606e650a75a42caab139f917448398b",
+    "revision": "3baaeddf5298363d16150999a7af6684",
     "url": "/tiferet-ashemesh/index.html"
   },
   {
-    "revision": "bef712906de8ff61e85a",
+    "revision": "f29a4353e6ad676fe8b3",
     "url": "/tiferet-ashemesh/static/css/2.31dafeb2.chunk.css"
   },
   {
-    "revision": "18f33de1231331febdb5",
-    "url": "/tiferet-ashemesh/static/css/main.66983dfd.chunk.css"
+    "revision": "f736200629154f752ffd",
+    "url": "/tiferet-ashemesh/static/css/main.99cec90e.chunk.css"
   },
   {
-    "revision": "bef712906de8ff61e85a",
-    "url": "/tiferet-ashemesh/static/js/2.383b3dc1.chunk.js"
+    "revision": "f29a4353e6ad676fe8b3",
+    "url": "/tiferet-ashemesh/static/js/2.61a6edae.chunk.js"
   },
   {
-    "revision": "18f33de1231331febdb5",
-    "url": "/tiferet-ashemesh/static/js/main.ff2d1bee.chunk.js"
+    "revision": "f736200629154f752ffd",
+    "url": "/tiferet-ashemesh/static/js/main.b424ea4e.chunk.js"
   },
   {
     "revision": "49c3bf4efaa3ef7d158c",
