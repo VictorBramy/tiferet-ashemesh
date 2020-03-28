@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3baaeddf5298363d16150999a7af6684",
+    "revision": "e3a581dc92ebad5575999972e3a1e978",
     "url": "/tiferet-ashemesh/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/tiferet-ashemesh/static/css/2.31dafeb2.chunk.css"
   },
   {
-    "revision": "f736200629154f752ffd",
+    "revision": "709744c4ebf416cd19a8",
     "url": "/tiferet-ashemesh/static/css/main.99cec90e.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/tiferet-ashemesh/static/js/2.61a6edae.chunk.js"
   },
   {
-    "revision": "f736200629154f752ffd",
-    "url": "/tiferet-ashemesh/static/js/main.b424ea4e.chunk.js"
+    "revision": "709744c4ebf416cd19a8",
+    "url": "/tiferet-ashemesh/static/js/main.4ecc37a9.chunk.js"
   },
   {
     "revision": "49c3bf4efaa3ef7d158c",
